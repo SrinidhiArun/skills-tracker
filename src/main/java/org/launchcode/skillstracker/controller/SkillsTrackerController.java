@@ -38,7 +38,7 @@ public class SkillsTrackerController {
                 "    <option value='Java'>Java</option>" +
                 "    <option value='Javascript'>Javascript</option>" +
                 "    <option value='Go'>Go</option>" +
-                "</select>" +
+                "</select> " +
                 "<br><label for='secondLanguage'>My second favorite language:</label><br>"+
                 "<select name='secondLanguage' id='secondLanguage'>" +
                 "    <option value='java'>Java</option>" +
